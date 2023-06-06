@@ -1,6 +1,6 @@
 # HTML-CSS-JavaScript-Cheatsheets
 
-![github-thumbnail](https://user-images.githubusercontent.com/84122427/196774272-113fc79c-afa5-41ac-929e-7f905c12714b.png)
+
 
 
 • [5 Ways to Center Content with CSS](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/5%20Ways%20to%20Center%20Content%20with%20CSS.png)
@@ -55,9 +55,8 @@
 
 • [CSS Grid align-self CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Grid%20align-self%20CheatSheet.png)
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=imalfaiz/HTML-CSS-JavaScript-CheatSheets&type=Date)](https://star-history.com/#imalfaiz/HTML-CSS-JavaScript-CheatSheets&Date)
+
 
 ### Support this Repo
 
